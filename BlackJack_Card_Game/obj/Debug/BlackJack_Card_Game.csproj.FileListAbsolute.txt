@@ -1,0 +1,49 @@
+C:\Users\Calistro Vieyra\Desktop\Garrett Girod\BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.exe.config
+C:\Users\Calistro Vieyra\Desktop\Garrett Girod\BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.exe
+C:\Users\Calistro Vieyra\Desktop\Garrett Girod\BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.pdb
+C:\Users\Calistro Vieyra\Desktop\Garrett Girod\BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game_ClassLibrary.dll
+C:\Users\Calistro Vieyra\Desktop\Garrett Girod\BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game_ClassLibrary.pdb
+C:\Users\Calistro Vieyra\Desktop\Garrett Girod\BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Desktop\Garrett Girod\BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\Desktop\Garrett Girod\BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csproj.CopyComplete
+C:\Users\Calistro Vieyra\Desktop\Garrett Girod\BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.exe
+C:\Users\Calistro Vieyra\Desktop\Garrett Girod\BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.pdb
+C:\Users\Calistro Vieyra\Desktop\BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.exe.config
+C:\Users\Calistro Vieyra\Desktop\BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.exe
+C:\Users\Calistro Vieyra\Desktop\BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.pdb
+C:\Users\Calistro Vieyra\Desktop\BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game_ClassLibrary.dll
+C:\Users\Calistro Vieyra\Desktop\BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game_ClassLibrary.pdb
+C:\Users\Calistro Vieyra\Desktop\BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Desktop\BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\Desktop\BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csproj.CopyComplete
+C:\Users\Calistro Vieyra\Desktop\BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.exe
+C:\Users\Calistro Vieyra\Desktop\BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.pdb
+C:\Users\Calistro Vieyra\Desktop\Calistro Vieyra_BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.exe.config
+C:\Users\Calistro Vieyra\Desktop\Calistro Vieyra_BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.exe
+C:\Users\Calistro Vieyra\Desktop\Calistro Vieyra_BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.pdb
+C:\Users\Calistro Vieyra\Desktop\Calistro Vieyra_BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game_ClassLibrary.dll
+C:\Users\Calistro Vieyra\Desktop\Calistro Vieyra_BlackJack_Card_Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game_ClassLibrary.pdb
+C:\Users\Calistro Vieyra\Desktop\Calistro Vieyra_BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Desktop\Calistro Vieyra_BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\Desktop\Calistro Vieyra_BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csproj.CopyComplete
+C:\Users\Calistro Vieyra\Desktop\Calistro Vieyra_BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.exe
+C:\Users\Calistro Vieyra\Desktop\Calistro Vieyra_BlackJack_Card_Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.pdb
+C:\Users\Calistro Vieyra\Desktop\Created Games\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.exe.config
+C:\Users\Calistro Vieyra\Desktop\Created Games\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.exe
+C:\Users\Calistro Vieyra\Desktop\Created Games\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.pdb
+C:\Users\Calistro Vieyra\Desktop\Created Games\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game_ClassLibrary.dll
+C:\Users\Calistro Vieyra\Desktop\Created Games\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game_ClassLibrary.pdb
+C:\Users\Calistro Vieyra\Desktop\Created Games\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Desktop\Created Games\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csproj.CoreCompileInputs.cache
+C:\Users\Calistro Vieyra\Desktop\Created Games\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csproj.CopyComplete
+C:\Users\Calistro Vieyra\Desktop\Created Games\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.exe
+C:\Users\Calistro Vieyra\Desktop\Created Games\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.pdb
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.exe.config
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.exe
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game.pdb
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game_ClassLibrary.dll
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\bin\Debug\BlackJack_Card_Game_ClassLibrary.pdb
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csprojAssemblyReference.cache
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.csproj.CopyComplete
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.exe
+C:\Users\Calistro Vieyra\Sync\Projects\Calistro Vieyra_BlackJack Card Game\BlackJack_Card_Game\obj\Debug\BlackJack_Card_Game.pdb
